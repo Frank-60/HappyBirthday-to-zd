@@ -1,11 +1,11 @@
 {
   "greeting": "Hiya",
-  "name": "秦蓉",
+  "name": "泽栋",
   "greetingText": "猜猜这是什么😜",
   "wishText": "希望你永远幸福快乐，事事顺心，不顺心了就来找我，我会一直当你的树洞哦😜;)",
   "imagePath": "img/蓉.jpg",
-  "text1": "今天是你生日哇，不会忘了吧啊哈哈哈😆!!! :D",
-  "textInChatBox": "生日快乐哇!(^O^)y二十一岁啦~🍩 🍪 🍫 🍭 🍬 🥟  🧁 🥧 🍮   🍨 送上美食",
+  "text1": "昨日我夜观天象，掐指一算某人最近要过生日啊哈哈哈😎!!! :D",
+  "textInChatBox": "生日快乐哇!(^O^)y二十三岁啦~🍩 🍪 🍫 🍭 🍬 🥟  🧁 🥧 🍮   🍨 送上美食",
   "sendButtonLabel": "Send",
   "text2": "我本来是想这么做的",
   "text3": "但想想好像没啥诚意",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "♡HAPPYBIRTHDAY TO YOU♡",
-  "outroText": "嘿嘿，喜欢吗",
+  "outroText": "",
   "replayText": "还看不过瘾？那轻点鼠标再来一次啦.",
   "outroSmiley": ":)"
 }
